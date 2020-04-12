@@ -1,7 +1,5 @@
 # Hello world site
 
-> What is it and why (expand into extra sub-sections with architectural overview etc if necessary)
-
 A very basic hello world website and httpd based container image to serve it. Useful for demonstrative purposes in articles and other learning material.
 
 
